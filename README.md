@@ -23,3 +23,13 @@ Bu layihə, pasiyentlərin tibbi göstəricilərinə əsasən onlarda diabet ris
 ├── model.pkl             # Öyrədilmiş və yaddaşa saxlanılmış hazır model faylı
 ├── app.py                # Streamlit veb tətbiqinin interfeys kodu
 └── README.md             # Layihə haqqında məlumat (Hazırda oxuduğunuz fayl)
+
+📊 İstifadə Olunan Texnologiyalar (Tech Stack)
+Language: Python 🐍
+
+Libraries: Pandas, NumPy, Scikit-learn, Pickle
+
+Framework: Streamlit 🎈
+
+✍️ Müəllif (Author)
+Mahammad Damirchioglu
